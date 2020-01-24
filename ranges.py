@@ -35,5 +35,29 @@ print(my_range)
 for i in range(3,40,3):
     print(i)
 
+print(range(0,5,2) == range(0,6,2))
+print(list(range(0,5,2)))
+print(list(range(0,6,2)))
+
+r = range(0,100)
+print(r)
+
+for i in r[::-2]:
+    print(i)
+
+print("_________________________")
+
+for i in range(99,0,-2):
+    print(i)
+
+
+back_string = "egaugnal lufrewop yrev a si nohtyP"
+print(back_string[::-1])
+
+r = range(0, 10)
+for i in back_string:
+    print(i)
+
+
 
 
