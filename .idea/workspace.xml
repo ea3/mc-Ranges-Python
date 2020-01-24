@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="383807dc-dd04-44be-be7d-f0605c466e47" name="Default Changelist" comment="" />
+    <list default="true" id="383807dc-dd04-44be-be7d-f0605c466e47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ranges.py" beforeDir="false" afterPath="$PROJECT_DIR$/ranges.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +14,18 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Wok5eIJcG5flyx13r6It1Rl06A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -66,21 +82,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="723" height="278" key="GridCell.Tab.0.bottom" timestamp="1579823378287">
+    <state width="723" height="278" key="GridCell.Tab.0.bottom" timestamp="1579824567143">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="723" height="278" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1579823378287" />
-    <state width="723" height="278" key="GridCell.Tab.0.center" timestamp="1579823378286">
+    <state width="723" height="278" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1579824567143" />
+    <state width="723" height="278" key="GridCell.Tab.0.center" timestamp="1579824567142">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="723" height="278" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1579823378286" />
-    <state width="723" height="278" key="GridCell.Tab.0.left" timestamp="1579823378286">
+    <state width="723" height="278" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1579824567142" />
+    <state width="723" height="278" key="GridCell.Tab.0.left" timestamp="1579824567141">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="723" height="278" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1579823378286" />
-    <state width="723" height="278" key="GridCell.Tab.0.right" timestamp="1579823378287">
+    <state width="723" height="278" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1579824567141" />
+    <state width="723" height="278" key="GridCell.Tab.0.right" timestamp="1579824567142">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="723" height="278" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1579823378287" />
+    <state width="723" height="278" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1579824567142" />
+    <state x="76" y="250" key="search.everywhere.popup" timestamp="1579824179277">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state x="76" y="250" key="search.everywhere.popup/49.23.1631.1027@49.23.1631.1027" timestamp="1579824179277" />
   </component>
 </project>
