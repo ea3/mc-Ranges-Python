@@ -59,5 +59,15 @@ for i in back_string:
     print(i)
 
 
+o = range(0,100,4)
+print(o)
+for i in o:
+    print(i)
+
+p = o[::5]
+print(p)
+
+for i in p:
+    print(i)
 
 
